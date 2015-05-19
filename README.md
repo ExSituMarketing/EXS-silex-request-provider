@@ -15,7 +15,7 @@ Once the new project is set up, open the composer.json file and add the exs/sile
 ```
 Or you could just add it via the command line:
 ```
-$ composer.phar require exs/silex-request-provider : de-master
+$ composer.phar require exs/silex-request-provider : dev-master
 ```
 
 Save the file and have composer update the project via the command line:
