@@ -4,6 +4,7 @@ namespace EXS\RequestProvider\Providers;
 
 use Pimple\ServiceProviderInterface;
 use Pimple\Container;
+use EXS\RequestProvider\Services\RequestService;
 
 /**
  * Description of ServiceProvider
