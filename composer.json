@@ -1,0 +1,28 @@
+    {
+    "name": "exs/silex-request-provider",
+    "description": "Request bundle for Silex2",
+    "keywords": [
+        "silex",
+        "request",
+        "stack",
+        "provider"
+    ],
+    "homepage": "https://github.com/ExSituMarketing/EXS-silex-request-provider",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Damien Demessence",
+            "email": "damiend@ex-situ.com"
+        }
+    ],
+    "require": {
+        "silex/silex": "~2.0@dev"
+    },
+    "autoload": {
+        "psr-0": {
+            "EXS\\RequestProvider": ""
+        }
+    },
+    "minimum-stability": "dev",
+    "target-dir": "EXS/RequestProvider"    
+}
