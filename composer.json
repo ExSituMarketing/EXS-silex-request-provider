@@ -24,10 +24,5 @@
         }
     },
     "minimum-stability": "dev",
-    "target-dir": "EXS/RequestProvider",
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.0.x-dev"
-        }
-    }
+    "target-dir": "EXS/RequestProvider"
 }
