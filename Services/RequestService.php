@@ -3,7 +3,7 @@
 namespace EXS\RequestProvider\Services;
 
 use Symfony\Component\HttpFoundation\Request;
-use EXS\TrafficFalcon\Services\Interfaces\RequestServiceInterface;
+use EXS\RequestProvider\Services\Interfaces\RequestServiceInterface;
 
 /**
  * Description of RequestService
